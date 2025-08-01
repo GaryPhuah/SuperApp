@@ -2,11 +2,12 @@
 
 **SuperApp** is a Python-based tool that demonstrates how to run a Python script for accessing certain video platforms. It can optionally be packaged into a standalone executable using [PyInstaller](https://www.pyinstaller.org/).
 
-> 💡 **Inspired by [琥珀君](https://example.com](https://www.cnblogs.com/eliteboy/p/19013379)** — credits to the original author for the concept and approach.
+> **Inspired by [琥珀君](https://www.cnblogs.com/eliteboy/p/19013379)** – all credit for the original idea and method goes to them.
+
 
 ---
 
-## 🚀 Features
+## Features
 
 - Runs directly via Python (`python VIPmovie.py`)
 - Optional: build as an `.exe` using PyInstaller
@@ -14,17 +15,17 @@
 
 ---
 
-## 🧱 Prerequisites
+## Prerequisites
 
 To run this app, you’ll need:
 
-- ✅ Python 3.8 or higher
-- ✅ `pip` (Python package manager)
-- ✅ A code editor (VS Code, PyCharm, etc.)
+- Python 3.8 or higher
+- `pip` (Python package manager)
+- A code editor (VS Code, PyCharm, etc.)
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Install Python
 
@@ -40,7 +41,7 @@ cd SuperApp
 
 ---
 
-## ▶️ Running the Application
+## Running the Application
 
 Run the app directly using Python:
 
@@ -60,21 +61,22 @@ pip install pyinstaller
 ---
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 SuperApp/
 ├── MovieVIP.iml      # (PyCharm config, ignore)
 ├── VIPmovie.py       # ← Main script
 └── README.md
+└── DemoResult.png
 ```
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
-- 🔗 Inspired by **琥珀君**
-- 🐍 Built using Python
+- Inspired by **琥珀君**
+- Built using Python
 
 ---
 
@@ -83,3 +85,9 @@ SuperApp/
 This project is intended for **educational use only**.  
 Please respect the terms of use of any third-party platforms involved.
 
+---
+## 🖼️ Demo
+
+Here's a quick preview of the result when running the script:
+
+![Demo Result](DemoResult.png)
