@@ -2,7 +2,7 @@
 
 **SuperApp** is a Python-based tool that demonstrates how to run a Python script for accessing certain video platforms. It can optionally be packaged into a standalone executable using [PyInstaller](https://www.pyinstaller.org/).
 
-> **Inspired by [琥珀君](https://www.cnblogs.com/eliteboy/p/19013379)** – all credit for the original idea and method goes to them.
+> **Inspired by [琥珀君](https://www.cnblogs.com/eliteboy)** – all credit for the original idea and method goes to them.
 
 
 ---
@@ -65,10 +65,11 @@ pip install pyinstaller
 
 ```
 SuperApp/
+├──DemoResult.png
 ├── MovieVIP.iml      # (PyCharm config, ignore)
 ├── VIPmovie.py       # ← Main script
 └── README.md
-└── DemoResult.png
+
 ```
 
 ---
